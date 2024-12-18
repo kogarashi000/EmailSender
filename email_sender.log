@@ -1,0 +1,42 @@
+2024-12-18 15:52:53 INFO  com.example.EmailSender - Учетные данные успешно расшифрованы.
+2024-12-18 15:52:53 INFO  com.example.EmailSender - Прочитано 1 контактов.
+2024-12-18 15:52:53 INFO  com.example.EmailSender - Шаблон сообщения успешно прочитан.
+2024-12-18 15:53:13 INFO  com.example.EmailSender - Письмо успешно отправлено: kogarashi000@mail.ru
+2024-12-18 15:54:34 INFO  com.example.EmailSender - Учетные данные успешно расшифрованы.
+2024-12-18 15:54:35 INFO  com.example.EmailSender - Прочитано 2 контактов.
+2024-12-18 15:54:35 INFO  com.example.EmailSender - Шаблон сообщения успешно прочитан.
+2024-12-18 15:54:54 INFO  com.example.EmailSender - Письмо успешно отправлено: kogarashi000@mail.ru
+2024-12-18 15:55:14 INFO  com.example.EmailSender - Письмо успешно отправлено: reakms_05@mail.ru
+2024-12-18 15:57:55 INFO  com.example.EmailSender - Учетные данные успешно расшифрованы.
+2024-12-18 15:57:55 INFO  com.example.EmailSender - Прочитано 1 контактов.
+2024-12-18 15:57:55 INFO  com.example.EmailSender - Шаблон сообщения успешно прочитан.
+2024-12-18 15:58:15 INFO  com.example.EmailSender - Письмо успешно отправлено: denisyusha2.0@yandex.ru
+2024-12-18 16:12:59 INFO  com.example.EmailSender - Учетные данные успешно расшифрованы.
+2024-12-18 16:12:59 INFO  com.example.EmailSender - Прочитано 10 контактов.
+2024-12-18 16:12:59 INFO  com.example.EmailSender - Шаблон сообщения успешно прочитан.
+2024-12-18 16:13:18 INFO  com.example.EmailSender - Письмо успешно отправлено: kogarashi000@mail.ru
+2024-12-18 16:13:38 INFO  com.example.EmailSender - Письмо успешно отправлено: reakms_05@mail.ru
+2024-12-18 16:13:58 INFO  com.example.EmailSender - Письмо успешно отправлено: denisyusha2.0@yandex.ru
+2024-12-18 16:14:21 INFO  com.example.EmailSender - Письмо успешно отправлено: lobanovsasha@inbox.ru
+2024-12-18 16:14:41 INFO  com.example.EmailSender - Письмо успешно отправлено: ruservera2@gmail.com
+2024-12-18 16:15:01 INFO  com.example.EmailSender - Письмо успешно отправлено: gezzai@yandex.ru
+2024-12-18 16:15:22 INFO  com.example.EmailSender - Письмо успешно отправлено: finn3light@gmail.com
+2024-12-18 16:15:42 INFO  com.example.EmailSender - Письмо успешно отправлено: dva.porkhnia@gmail.com
+2024-12-18 16:16:02 INFO  com.example.EmailSender - Письмо успешно отправлено: Finn69Light@yandex.ru
+2024-12-18 16:16:22 INFO  com.example.EmailSender - Письмо успешно отправлено: Tarev.misha@gmail.com
+2024-12-18 16:30:14 INFO  com.example.EmailSender - Учетные данные успешно расшифрованы.
+2024-12-18 16:30:14 INFO  com.example.EmailSender - Прочитано 1 контактов.
+2024-12-18 16:30:14 INFO  com.example.EmailSender - Шаблон сообщения успешно прочитан.
+2024-12-18 16:30:19 INFO  com.example.EmailSender - Письмо успешно отправлено: kogarashi000@mail.ru
+2024-12-18 16:40:22 INFO  com.example.EmailSender - Учетные данные успешно расшифрованы.
+2024-12-18 16:40:22 INFO  com.example.EmailSender - Прочитано 1 контактов.
+2024-12-18 16:40:22 INFO  com.example.EmailSender - Шаблон сообщения успешно прочитан.
+2024-12-18 16:40:25 INFO  com.example.EmailSender - Письмо успешно отправлено: kogarashi000@mail.ru
+2024-12-18 16:40:40 INFO  com.example.EmailSender - Учетные данные успешно расшифрованы.
+2024-12-18 16:40:40 INFO  com.example.EmailSender - Прочитано 1 контактов.
+2024-12-18 16:40:40 INFO  com.example.EmailSender - Шаблон сообщения успешно прочитан.
+2024-12-18 16:40:58 ERROR com.example.EmailSender - Ошибка при отправке письма kogarashi000@mail.ru: Exception reading response
+2024-12-18 16:55:20 INFO  com.example.EmailSender - Учетные данные успешно расшифрованы.
+2024-12-18 16:55:20 INFO  com.example.EmailSender - Прочитано 1 контактов.
+2024-12-18 16:55:20 INFO  com.example.EmailSender - Шаблон сообщения успешно прочитан.
+2024-12-18 16:55:22 INFO  com.example.EmailSender - Письмо успешно отправлено: kogarashi000@mail.ru
